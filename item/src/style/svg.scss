@@ -1,0 +1,20 @@
+svg{
+  .ring_bell{
+    cursor:pointer;
+  }
+  .shuffleBoard{
+    cursor:pointer;
+  }
+  .pendulum{
+    cursor:pointer;
+  }
+}
+svg:not(:root) {
+    overflow: hidden;
+    overflow: -moz-hidden-unscrollable;
+    -ms-scroll-limit: 0 0 0 0;
+}
+.svgcontainer{
+  background-color:White;
+  overflow: hidden
+}

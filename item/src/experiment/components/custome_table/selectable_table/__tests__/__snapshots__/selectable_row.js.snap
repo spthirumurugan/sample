@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components <SelectableRow /> should render 1`] = `
+<tr>
+  <td>
+    <div
+      className="checkbox checkbox-green"
+    >
+      <input
+        checked={true}
+        id="checkbox_id_17l9p5j1dbgj0cexnow"
+        onChange={[Function]}
+        type="checkbox"
+        value="id_1"
+      />
+      <label
+        htmlFor="checkbox_id_17l9p5j1dbgj0cexnow"
+      />
+    </div>
+  </td>
+  <td>
+    prop1
+  </td>
+  <td>
+    prop2
+  </td>
+</tr>
+`;

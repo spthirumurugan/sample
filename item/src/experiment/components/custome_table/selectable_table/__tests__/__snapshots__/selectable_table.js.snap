@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components <SelectableTable /> should render 1`] = `
+<div>
+  <table
+    className="table table-bordered"
+    onClick={[Function]}
+  >
+    <th
+      viewId="view_1"
+    />
+    <tbody>
+      <tr
+        datasetId="id1"
+        viewId="view_1"
+      />
+      <tr
+        datasetId="id2"
+        viewId="view_1"
+      />
+    </tbody>
+  </table>
+</div>
+`;

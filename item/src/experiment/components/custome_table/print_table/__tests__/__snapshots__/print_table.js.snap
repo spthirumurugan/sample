@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components <PrintTable /> should render 1`] = `
+<table
+  className="table table-bordered"
+>
+  <thead
+    viewId="view_1"
+  />
+  <tbody>
+    <tr
+      datasetId="d1"
+      viewId="view_1"
+    />
+    <tr
+      datasetId="d2"
+      viewId="view_1"
+    />
+  </tbody>
+</table>
+`;

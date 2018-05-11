@@ -1,0 +1,89 @@
+{
+	"meta": {
+		"image": "spritesheet.png",
+		"size": {"w":1165,"h":811},
+		"scale": "1"
+	},
+	"frames": {
+		"hammer_anim0001.png":
+		{
+			"frame": {"x":0,"y":0,"w":110,"h":284},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":366,"y":6,"w":110,"h":284},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0002.png":
+		{
+			"frame": {"x":110,"y":0,"w":118,"h":282},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":313,"y":11,"w":118,"h":282},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0003.png":
+		{
+			"frame": {"x":228,"y":0,"w":144,"h":278},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":261,"y":25,"w":144,"h":278},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0004.png":
+		{
+			"frame": {"x":372,"y":0,"w":168,"h":269},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":211,"y":49,"w":168,"h":269},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0010.png":
+		{
+			"frame": {"x":0,"y":284,"w":260,"h":151},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":0,"y":421,"w":260,"h":151},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0005.png":
+		{
+			"frame": {"x":540,"y":0,"w":191,"h":256},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":165,"y":82,"w":191,"h":256},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0009.png":
+		{
+			"frame": {"x":0,"y":435,"w":250,"h":176},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":41,"y":290,"w":250,"h":176},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0006.png":
+		{
+			"frame": {"x":731,"y":0,"w":209,"h":240},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":126,"y":123,"w":209,"h":240},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0008.png":
+		{
+			"frame": {"x":0,"y":611,"w":240,"h":200},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":62,"y":228,"w":240,"h":200},
+			"sourceSize": {"w":506,"h":572}
+		},
+		"hammer_anim0007.png":
+		{
+			"frame": {"x":940,"y":0,"w":225,"h":221},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {"x":91,"y":172,"w":225,"h":221},
+			"sourceSize": {"w":506,"h":572}
+		}
+	}
+}

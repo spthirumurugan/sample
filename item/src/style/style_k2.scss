@@ -1,0 +1,13 @@
+// The relative path to the node modules folder from the styles folder.
+$path-to-node_modules: '../../node_modules';
+
+$nc-font-path: '#{$path-to-node_modules}/cdlo_components/style/font/nucleo/glyph/fonts';
+$avenir-font-path: '#{$path-to-node_modules}/cdlo_components/style/font/avenir-primary-hmh';
+$ss-font-path: '#{$path-to-node_modules}/cdlo_components/style/font/source-sans-pro';
+$vag-font-path: '#{$path-to-node_modules}/cdlo_components/style/font/vag-rounded';
+
+// Choose the style sheet for the grade
+@import 'node_modules/cdlo_components/style/style_k2';
+// @import 'node_modules/cdlo_components/style/style_3-5';
+// @import 'node_modules/cdlo_bootstrap/style/style_6-8';
+// @import 'node_modules/cdlo_bootstrap/style/style_9-12';

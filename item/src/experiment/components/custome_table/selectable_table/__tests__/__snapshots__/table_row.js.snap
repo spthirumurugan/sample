@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components TableRow <TableRow /> should render 1`] = `
+<tr>
+  <td>
+    1
+  </td>
+</tr>
+`;

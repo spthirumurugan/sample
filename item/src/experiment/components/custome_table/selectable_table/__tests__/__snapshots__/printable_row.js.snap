@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components <PrintableRowu /> should render 1`] = `
+<tr>
+  <td>
+    prop1
+  </td>
+  <td>
+    prop2
+  </td>
+</tr>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components <TableHeader /> should render correctly 1`] = `
+<thead>
+  <tr>
+    <th>
+      Energy
+    </th>
+  </tr>
+</thead>
+`;
